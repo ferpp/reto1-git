@@ -1,6 +1,7 @@
-Reto 1 Git
-<<<<<<< HEAD
+Reto 1 Git:
+
 Esta es la rama de QA
------------------------
+
 Esta es la rama Develop
->>>>>>> develop
+
+Hola, soy la rama task1
